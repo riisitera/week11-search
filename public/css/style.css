@@ -164,8 +164,15 @@ html {
   transform: scale(1.5);
 }
 
+.chat-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+
 footer {
-  margin-top: 9rem;
+  margin-top: 2rem;
   text-align: center;
   color: #777;
 }
